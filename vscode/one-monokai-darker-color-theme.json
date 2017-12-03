@@ -409,7 +409,7 @@
 		"sideBar.background": "#1E1E1E",
 		"titleBar.activeBackground": "#1E1E1E",
 		"activityBarBadge.background": "#4D78CC",
- +    	"activityBarBadge.foreground": "#F8FAFD",
+     	"activityBarBadge.foreground": "#F8FAFD",
 		"statusBar.background": "#222222",
 		"peekViewEditor.background": "#222222",
 		"activityBar.background": "#222222",

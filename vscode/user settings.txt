@@ -1,0 +1,26 @@
+// user settings
+{
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "window.zoomLevel": 1,
+    "editor.fontSize": 12,
+    "git.enabled": false,
+    "workbench.iconTheme": "vscode-great-icons",
+    "typescript.referencesCodeLens.enabled": true,
+    "typescript.implementationsCodeLens.enabled": true,
+    "editor.codeLens": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "extensions.ignoreRecommendations": false,
+    "editor.lineNumbers": "relative",
+    "editor.detectIndentation": false,
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "One Monokai Darker",
+    "editor.snippetSuggestions": "top",
+    "editor.smoothScrolling": true,
+    "workbench.activityBar.visible": true,
+    "editor.formatOnSave": true,
+    "vim.disableAnnoyingNeovimMessage": true,
+    "vim.useCtrlKeys": false,
+    "workbench.panel.location": "bottom",
+    "workbench.editor.enablePreview": false
+}
