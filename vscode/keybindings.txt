@@ -1,4 +1,3 @@
-// keybindings
 [
     {
         "key": "ctrl+,",
@@ -73,7 +72,7 @@
         "command": "-workbench.action.files.saveAll"
     },
     {
-        "key": "shift+alt+l",
+        "key": "ctrl+alt+l",
         "command": "workbench.files.action.showActiveFileInExplorer"
     },
     {
@@ -111,5 +110,25 @@
     {
         "key": "alt+right",
         "command": "-workbench.action.navigateForward"
+    },
+    {
+        "key": "shift+alt+l",
+        "command": "editor.action.smartSelect.grow",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+alt+right",
+        "command": "-editor.action.smartSelect.grow",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+alt+h",
+        "command": "editor.action.smartSelect.shrink",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+alt+left",
+        "command": "-editor.action.smartSelect.shrink",
+        "when": "editorTextFocus"
     }
 ]
