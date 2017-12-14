@@ -130,5 +130,37 @@
         "key": "shift+alt+left",
         "command": "-editor.action.smartSelect.shrink",
         "when": "editorTextFocus"
+    },
+    {
+        "key": "alt+oem_6",
+        "command": "workbench.action.focusNextGroup"
+    },
+    {
+        "key": "ctrl+k ctrl+right",
+        "command": "-workbench.action.focusNextGroup"
+    },
+    {
+        "key": "alt+oem_4",
+        "command": "workbench.action.focusPreviousGroup"
+    },
+    {
+        "key": "ctrl+k ctrl+left",
+        "command": "-workbench.action.focusPreviousGroup"
+    },
+    {
+        "key": "ctrl+alt+oem_6",
+        "command": "workbench.action.moveEditorToNextGroup"
+    },
+    {
+        "key": "ctrl+alt+right",
+        "command": "-workbench.action.moveEditorToNextGroup"
+    },
+    {
+        "key": "ctrl+alt+oem_4",
+        "command": "workbench.action.moveEditorToPreviousGroup"
+    },
+    {
+        "key": "ctrl+alt+left",
+        "command": "-workbench.action.moveEditorToPreviousGroup"
     }
 ]
