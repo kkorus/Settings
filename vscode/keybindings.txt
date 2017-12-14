@@ -76,6 +76,10 @@
         "command": "workbench.files.action.showActiveFileInExplorer"
     },
     {
+        "key": "ctrl+alt+l",
+        "command": "workbench.files.action.focusFilesExplorer"
+    },
+    {
         "key": "ctrl+alt+oem_period",
         "command": "editor.action.referenceSearch.trigger",
         "when": "editorHasReferenceProvider && editorTextFocus && !inReferenceSearchEditor && !isInEmbeddedEditor"
