@@ -166,5 +166,65 @@
     {
         "key": "ctrl+alt+left",
         "command": "-workbench.action.moveEditorToPreviousGroup"
+    },
+    {
+        "key": "l",
+        "command": "list.expand",
+        "when": "listFocus && !inputFocus"
+    },
+    {
+        "key": "right",
+        "command": "-list.expand",
+        "when": "listFocus && !inputFocus"
+    },
+    {
+        "key": "h",
+        "command": "list.collapse",
+        "when": "listFocus && !inputFocus"
+    },
+    {
+        "key": "left",
+        "command": "-list.collapse",
+        "when": "listFocus && !inputFocus"
+    },
+    {
+        "key": "k",
+        "command": "list.focusUp",
+        "when": "listFocus && !inputFocus"
+    },
+    {
+        "key": "up",
+        "command": "-list.focusUp",
+        "when": "listFocus && !inputFocus"
+    },
+    {
+        "key": "j",
+        "command": "list.focusDown",
+        "when": "listFocus && !inputFocus"
+    },
+    {
+        "key": "down",
+        "command": "-list.focusDown",
+        "when": "listFocus && !inputFocus"
+    },
+    {
+        "key": "g g",
+        "command": "list.focusFirst",
+        "when": "listFocus && !inputFocus"
+    },
+    {
+        "key": "home",
+        "command": "-list.focusFirst",
+        "when": "listFocus && !inputFocus"
+    },
+    {
+        "key": "shift+g",
+        "command": "list.focusLast",
+        "when": "listFocus && !inputFocus"
+    },
+    {
+        "key": "end",
+        "command": "-list.focusLast",
+        "when": "listFocus && !inputFocus"
     }
 ]
