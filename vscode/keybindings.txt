@@ -73,11 +73,11 @@
     },
     {
         "key": "ctrl+alt+l",
-        "command": "workbench.files.action.showActiveFileInExplorer"
+        "command": "workbench.files.action.focusFilesExplorer"
     },
     {
         "key": "ctrl+alt+l",
-        "command": "workbench.files.action.focusFilesExplorer"
+        "command": "workbench.files.action.showActiveFileInExplorer"
     },
     {
         "key": "ctrl+alt+oem_period",
