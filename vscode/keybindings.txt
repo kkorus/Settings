@@ -73,11 +73,7 @@
     },
     {
         "key": "ctrl+alt+l",
-        "command": "workbench.files.action.focusFilesExplorer"
-    },
-    {
-        "key": "ctrl+alt+l",
-        "command": "workbench.files.action.showActiveFileInExplorer"
+        "command": "macros.showFileAndFocus"
     },
     {
         "key": "ctrl+alt+oem_period",
