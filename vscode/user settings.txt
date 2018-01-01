@@ -1,4 +1,3 @@
-// user settings
 {
     "editor.fontFamily": "Consolas, 'Courier New', monospace",
     "window.zoomLevel": 1,
