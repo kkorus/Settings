@@ -1,0 +1,10 @@
+- EditorConfig
+- Vim
+- macros
+- yaml 
+- Path Intellisense
+- NPM IntelliSense
+- npm
+- Great icons
+
+Theme: One Monokai Darker
