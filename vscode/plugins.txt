@@ -1,10 +1,13 @@
 - EditorConfig
-- Vim
+- Vim/amVim
 - macros
 - yaml 
 - Path Intellisense
 - NPM IntelliSense
 - npm
-- Great icons
+- VSCode Great icons
+- Swagger Viewer*
+
+* optional
 
 Theme: One Monokai Darker
