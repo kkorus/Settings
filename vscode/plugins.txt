@@ -4,6 +4,7 @@
 - yaml 
 - Path Intellisense
 - NPM IntelliSense
+- Node.js Modules Intellisense (https://github.com/leizongmin/vscode-node-module-intellisense)
 - npm
 - VSCode Great icons
 - Swagger Viewer*
