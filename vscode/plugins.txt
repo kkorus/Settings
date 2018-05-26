@@ -10,5 +10,5 @@
 - Swagger Viewer*
 
 * optional
-
+- Live Server (https://github.com/leizongmin/vscode-node-module-intellisense)
 Theme: One Monokai Darker
