@@ -3,7 +3,7 @@
     "editor.codeLens": false,
     "editor.detectIndentation": false,
     "editor.fontFamily": "Consolas, 'Courier New', monospace",
-    "editor.fontSize": 12,
+    "editor.fontSize": 11,
     "editor.formatOnSave": true,
     "editor.insertSpaces": true,
     "editor.lineNumbers": "relative",
@@ -39,5 +39,9 @@
     "workbench.colorTheme": "One Monokai Darker",
     "workbench.editor.enablePreview": false,
     "workbench.iconTheme": "vscode-great-icons",
-    "yaml.format.enable": true
+    "yaml.format.enable": true,
+    "prettier.singleQuote": true,
+    "prettier.printWidth": 120,
+    "prettier.useTabs": false,
+    "prettier.tabWidth": 4
 }
