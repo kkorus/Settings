@@ -3,9 +3,12 @@
 3. Plain Rename
 4. Relative number
 5. VsVim
-6. TextSharp
+6. Text Sharp
 7. Add New File
 8. VimSox
 9. Sharpen
 10. ToggleComment
-
+11. File Icons
+12. Output enchancer 
+13. TestDriven.NET
+14. Markdown Editor
