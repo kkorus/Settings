@@ -1,16 +1,18 @@
 {
     "amVim.bindCtrlCommands": false,
+    "editor.fontSize": 12,
     "editor.codeLens": false,
     "editor.detectIndentation": false,
     "editor.fontFamily": "Consolas, 'Courier New', monospace",
-    "editor.fontSize": 11,
     "editor.formatOnSave": true,
     "editor.insertSpaces": true,
     "editor.lineNumbers": "relative",
     "editor.minimap.enabled": false,
     "editor.smoothScrolling": true,
     "editor.snippetSuggestions": "top",
+    // "editor.suggestSelection": "recentlyUsedByPrefix",
     "editor.tabSize": 4,
+    "emmet.showSuggestionsAsSnippets": false,
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
     },
@@ -34,14 +36,22 @@
     "window.zoomLevel": 1,
     "workbench.activityBar.visible": true,
     "workbench.colorCustomizations": {
-        "editorIndentGuide.activeBackground": "#ffcc00"
+        "editorIndentGuide.activeBackground": "#ffcc00",
+        "editorCursor.foreground": "#ffcc00",
+        "editor.background": "#1e1e1e"
     },
     "workbench.colorTheme": "One Monokai Darker",
     "workbench.editor.enablePreview": false,
-    "workbench.iconTheme": "vscode-great-icons",
     "yaml.format.enable": true,
     "prettier.singleQuote": true,
     "prettier.printWidth": 120,
     "prettier.useTabs": false,
-    "prettier.tabWidth": 4
+    "prettier.tabWidth": 4,
+    "workbench.iconTheme": "vscode-great-icons",
+    "gitlens.gitExplorer.enabled": false,
+    "gitlens.codeLens.enabled": false,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.hovers.currentLine.enabled": false,
+    "gitlens.heatmap.toggleMode": "window"
 }
