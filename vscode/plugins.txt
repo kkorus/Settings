@@ -1,3 +1,6 @@
+- Prettier
+- Better Comments
+- TypeScript Hero
 - EditorConfig
 - Vim/amVim
 - macros
@@ -8,6 +11,7 @@
 - npm
 - VSCode Great icons
 - Swagger Viewer*
+
 
 * optional
 - Live Server (https://github.com/leizongmin/vscode-node-module-intellisense)
