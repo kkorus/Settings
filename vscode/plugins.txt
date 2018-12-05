@@ -12,6 +12,9 @@
 - VSCode Great icons
 - Swagger Viewer*
 
+Angular:
+angular2-switcher
+Angular Follow Selector
 
 * optional
 - Live Server (https://github.com/leizongmin/vscode-node-module-intellisense)
