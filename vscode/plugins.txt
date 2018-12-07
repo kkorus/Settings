@@ -1,3 +1,4 @@
+- IntelliCode
 - Prettier
 - Better Comments
 - TypeScript Hero
